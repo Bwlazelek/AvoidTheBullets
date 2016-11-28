@@ -6,7 +6,8 @@ package com.brandonwlazelek.game.map;
 import java.awt.Color;
 import java.awt.Graphics;
 
-import com.brandonwlazelek.game.player.Player;
+import com.brandonwlazelek.game.main.Player;
+
 
 
 public class Map {

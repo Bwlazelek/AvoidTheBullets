@@ -1,7 +1,8 @@
+package com.brandonwlazelek.game.main;
+
 //Brandon Wlazelek
 //LAST UPDATE: 11/26/2016
 
-package com.brandonwlazelek.game.player;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;

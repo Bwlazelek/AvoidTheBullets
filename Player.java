@@ -1,13 +1,12 @@
 //Brandon Wlazelek
 //LAST UPDATE: 11/26/2016
 
-package com.brandonwlazelek.game.player;
+package com.brandonwlazelek.game.main;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 
-import com.brandonwlazelek.game.main.GamePanel;
 import com.brandonwlazelek.game.map.Map;
 
 public class Player {

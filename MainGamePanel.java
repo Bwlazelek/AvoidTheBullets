@@ -4,9 +4,7 @@
 package com.brandonwlazelek.game.main;
 
 import com.brandonwlazelek.game.map.Map;
-import com.brandonwlazelek.game.player.LeftBullet;
-import com.brandonwlazelek.game.player.Player;
-import com.brandonwlazelek.game.player.RightBullet;
+
 
 import java.awt.Graphics;
 

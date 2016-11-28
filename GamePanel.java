@@ -96,7 +96,10 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
 		if (isRunning == false) { // switches panels
 			jp.remove(gp);
 			System.out.println("GAME OVER");
-			// TODO: Add Ending Panel
+			GameOverPanel gop = new GameOverPanel(jp);
+			gop.setBounds(0, 0, 1000, 600);
+			jp.add(gop);
+			jp.repaint();
 		}
 	}
 
